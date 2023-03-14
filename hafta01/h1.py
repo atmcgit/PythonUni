@@ -74,7 +74,8 @@ print(len(a))
 x = "Merhaba"
 y = "Dünya"
 print(x + y)
-print(x * 3)
+str="mustafa"
+print(str * 3)
 # - / + kullanılmaz
 
 sayi1 = 23
